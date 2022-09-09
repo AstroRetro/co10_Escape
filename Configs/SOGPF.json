@@ -9,16 +9,16 @@
 				{
 					"MOD" : "SOGPF MACV vs PAVN and VC",
 					"PLAYERSIDE" : "WEST",
-					"PLAYERUNIT_1" : "vn_b_men_army_01",  //Officer
-					"PLAYERUNIT_2" : "vn_b_men_army_12",  //AT
-					"PLAYERUNIT_3" : "vn_b_men_army_05",  //Demolitions
-					"PLAYERUNIT_4" : "vn_b_men_army_04",  //Engineer
-					"PLAYERUNIT_5" : "vn_b_men_army_07",  //Grenadier
-					"PLAYERUNIT_6" : "vn_b_men_army_06",  //Machine Gunner
-					"PLAYERUNIT_7" : "vn_b_men_army_08",  //RTO
-					"PLAYERUNIT_8" : "vn_b_men_army_09",  //Scout
-					"PLAYERUNIT_9" : "vn_b_men_army_10",  //Marksman
-					"PLAYERUNIT_10" : "vn_b_men_army_03"  //Medic
+					"PLAYERUNIT_1" : "vn_b_men_army_01",
+					"PLAYERUNIT_2" : "vn_b_men_army_12",
+					"PLAYERUNIT_3" : "vn_b_men_army_05",
+					"PLAYERUNIT_4" : "vn_b_men_army_04",
+					"PLAYERUNIT_5" : "vn_b_men_army_07",
+					"PLAYERUNIT_6" : "vn_b_men_army_06",
+					"PLAYERUNIT_7" : "vn_b_men_army_08",
+					"PLAYERUNIT_8" : "vn_b_men_army_09",
+					"PLAYERUNIT_9" : "vn_b_men_army_10",
+					"PLAYERUNIT_10" : "vn_b_men_army_03"
 				}
 		},
 		{
@@ -50,16 +50,16 @@
 				{
 					"MOD" : "SOGPF ANZAC vs PAVN and ROK",
 					"PLAYERSIDE" : "WEST",
-					"PLAYERUNIT_1" : "vn_b_men_aus_army_70_01",  //Troop Commander
-					"PLAYERUNIT_2" : "vn_b_men_aus_army_70_12",  //AT
-					"PLAYERUNIT_3" : "vn_b_men_aus_army_70_05",  //Demolitions
-					"PLAYERUNIT_4" : "vn_b_men_aus_army_70_04",  //Sapper
-					"PLAYERUNIT_5" : "vn_b_men_aus_army_70_07",  //Grenadier 1
-					"PLAYERUNIT_6" : "vn_b_men_aus_army_70_06",  //Machine Gunner
-					"PLAYERUNIT_7" : "vn_b_men_aus_army_70_08",  //Rifleman 1
-					"PLAYERUNIT_8" : "vn_b_men_aus_army_70_09",  //Scout 1
-					"PLAYERUNIT_9" : "vn_b_men_aus_army_70_10",  //Marksman
-					"PLAYERUNIT_10" : "vn_b_men_aus_army_70_03"  //Medic
+					"PLAYERUNIT_1" : "vn_b_men_aus_army_70_01",
+					"PLAYERUNIT_2" : "vn_b_men_aus_army_70_12",
+					"PLAYERUNIT_3" : "vn_b_men_aus_army_70_05",
+					"PLAYERUNIT_4" : "vn_b_men_aus_army_70_04",
+					"PLAYERUNIT_5" : "vn_b_men_aus_army_70_07",
+					"PLAYERUNIT_6" : "vn_b_men_aus_army_70_06",
+					"PLAYERUNIT_7" : "vn_b_men_aus_army_70_08",
+					"PLAYERUNIT_8" : "vn_b_men_aus_army_70_09",
+					"PLAYERUNIT_9" : "vn_b_men_aus_army_70_10",
+					"PLAYERUNIT_10" : "vn_b_men_aus_army_70_03"
 				}
 		},
 		{
