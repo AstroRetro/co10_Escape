@@ -36,7 +36,7 @@ class Params
 		values[]={2,4,6,8,-1,-2,-3};
 		texts[]={"Few (2-3)", "Some (3-5)", "Large (5-7)", "Max (7-9)","Players 1:0.5","Players 1:1","Players 1:1.5"};
 		livechanges = 1;
-		default = -2;
+		default = 4;
 	};
 	class A3E_Param_EnemySpawnDistance
 	{
@@ -51,7 +51,7 @@ class Params
 		values[]={1, 2, 3};
 		texts[]={"Low (better performance)", "Medium", "High (Very demanding)"};
 		livechanges = 1;
-		default = 1;
+		default = 2;
 	};
 	class A3E_Param_SearchChopper
 	{
@@ -124,7 +124,7 @@ class Params
 		values[]={5,10,20,30,40,50};
 		texts[]={"5%","10%","20%","30%","40%","50%"};
 		livechanges = 1;
-		default = 20;
+		default = 50;
 	};
 	class A3E_Param_RevealMarkers
 	{
@@ -153,7 +153,7 @@ class Params
 		title="War-Torn mode (CSAT and AAF are fighting each other)";
 		values[]={0,1};
 		texts[]={"Disabled","Enabled"};
-		default = 0;
+		default = 1;
 	};
 	class A3E_Param_ReviveView
 	{
@@ -168,7 +168,7 @@ class Params
 		values[]={0, 1, 2};
 		texts[]={"Random", "Close", "Far"};
 		livechanges = 1;
-		default = 0;
+		default = 1;
 	};
 	class A3E_Param_Waffelbox
 	{
@@ -267,7 +267,7 @@ class Params
 		title="Mag repack";
 		values[]={0,1};
 		texts[]={"Disabled", "Enabled"};
-		default = 0;
+		default = 1;
 	};
 	class A3E_Param_Spacer7
     {
