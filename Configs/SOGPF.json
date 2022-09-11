@@ -43,6 +43,46 @@
 				}
 		},
 		{
+			"name" : "SOGPF ANZAC vs PAVN-ROK",
+			"path" : "./Mods/SOGPF ANZAC vs PAVN-ROK/",
+			"require" : ["characters_f_vietnam_c","wheeled_f_vietnam_c","static_f_vietnam_c","boat_f_vietnam_c","air_f_vietnam_c","armor_f_vietnam_c"],
+			"replace" :
+				{
+					"MOD" : "SOGPF ANZAC vs PAVN and ROK",
+					"PLAYERSIDE" : "WEST",
+					"PLAYERUNIT_1" : "vn_b_men_aus_army_70_01",
+					"PLAYERUNIT_2" : "vn_b_men_aus_army_70_12",
+					"PLAYERUNIT_3" : "vn_b_men_aus_army_70_05",
+					"PLAYERUNIT_4" : "vn_b_men_aus_army_70_04",
+					"PLAYERUNIT_5" : "vn_b_men_aus_army_70_07",
+					"PLAYERUNIT_6" : "vn_b_men_aus_army_70_06",
+					"PLAYERUNIT_7" : "vn_b_men_aus_army_70_08",
+					"PLAYERUNIT_8" : "vn_b_men_aus_army_70_09",
+					"PLAYERUNIT_9" : "vn_b_men_aus_army_70_10",
+					"PLAYERUNIT_10" : "vn_b_men_aus_army_70_03"
+				}
+		},
+		{
+			"name" : "SOGPF ANZAC vs PAVN-ARVN",
+			"path" : "./Mods/SOGPF ANZAC vs PAVN-ARVN/",
+			"require" : ["characters_f_vietnam_c","wheeled_f_vietnam_c","static_f_vietnam_c","boat_f_vietnam_c","air_f_vietnam_c","armor_f_vietnam_c"],
+			"replace" :
+				{
+					"MOD" : "SOGPF ANZAC vs PAVN and ARVN",
+					"PLAYERSIDE" : "WEST",
+					"PLAYERUNIT_1" : "vn_b_men_aus_army_70_01",
+					"PLAYERUNIT_2" : "vn_b_men_aus_army_70_12",
+					"PLAYERUNIT_3" : "vn_b_men_aus_army_70_05",
+					"PLAYERUNIT_4" : "vn_b_men_aus_army_70_04",
+					"PLAYERUNIT_5" : "vn_b_men_aus_army_70_07",
+					"PLAYERUNIT_6" : "vn_b_men_aus_army_70_06",
+					"PLAYERUNIT_7" : "vn_b_men_aus_army_70_08",
+					"PLAYERUNIT_8" : "vn_b_men_aus_army_70_09",
+					"PLAYERUNIT_9" : "vn_b_men_aus_army_70_10",
+					"PLAYERUNIT_10" : "vn_b_men_aus_army_70_03"
+				}
+		},
+		{
 			"name" : "SOGPF PAVN vs ANZAC-ROK",
 			"path" : "./Mods/SOGPF PAVN vs ANZAC-ROK/",
 			"require" : ["characters_f_vietnam_c","wheeled_f_vietnam_c","static_f_vietnam_c","boat_f_vietnam_c","air_f_vietnam_c","armor_f_vietnam_c"],
@@ -161,13 +201,6 @@
 			"name" : "co10_Escape_SOGPF_MACV_vs_PAVN_and_VC"
 		},
 		{
-			"island" : "Da Krong",
-			"sqm": "DaKrong",
-			"mod" : "SOGPF MACV vs PAVN-VC",
-			"replace" : {},
-			"name" : "co10_Escape_SOGPF_MACV_vs_PAVN_and_VC"
-		},
-		{
 			"island" : "Cam Lao Nam",
 			"sqm": "Cam_Lao_Nam",
 			"mod" : "SOGPF PAVN vs MACV-ARVN",
@@ -226,13 +259,6 @@
 		{
 			"island" : "Tembelan",
 			"sqm": "Tembelan",
-			"mod" : "SOGPF PAVN vs MACV-ARVN",
-			"replace" : {},
-			"name" : "co10_Escape_SOGPF_PAVN_vs_MACV_and_ARVN"
-		},
-		{
-			"island" : "Da Krong",
-			"sqm": "DaKrong",
 			"mod" : "SOGPF PAVN vs MACV-ARVN",
 			"replace" : {},
 			"name" : "co10_Escape_SOGPF_PAVN_vs_MACV_and_ARVN"
@@ -300,18 +326,137 @@
 			"replace" : {},
 			"name" : "co10_Escape_SOGPF_PAVN_vs_ANZAC_and_ROK"
 		},
-		{
-			"island" : "Da Krong",
-			"sqm": "DaKrong",
-			"mod" : "SOGPF PAVN vs ANZAC-ROK",
+				{
+			"island" : "Cam Lao Nam",
+			"sqm": "Cam_Lao_Nam",
+			"mod" : "SOGPF ANZAC vs PAVN-ROK",
 			"replace" : {},
-			"name" : "co10_Escape_SOGPF_PAVN_vs_ANZAC_and_ROK"
+			"name" : "co10_Escape_SOGPF_ANZAC_vs_PAVN_and_ROK"
+		},
+		{
+			"island" : "Khe Sanh",
+			"sqm": "Khe_Sanh",
+			"mod" : "SOGPF ANZAC vs PAVN-ROK",
+			"replace" : {},
+			"name" : "co10_Escape_SOGPF_ANZAC_vs_PAVN_and_ROK"
+		},
+		{
+			"island" : "The Bra",
+			"sqm": "The_Bra",
+			"mod" : "SOGPF ANZAC vs PAVN-ROK",
+			"replace" : {},
+			"name" : "co10_Escape_SOGPF_ANZAC_vs_PAVN_and_ROK"
+		},
+		{
+			"island" : "Tanoa",
+			"sqm": "Tanoa",
+			"mod" : "SOGPF ANZAC vs PAVN-ROK",
+			"replace" : {},
+			"name" : "co10_Escape_SOGPF_ANZAC_vs_PAVN_and_ROK"
+		},
+		{
+			"island" : "Lingor",
+			"sqm": "Lingor3",
+			"mod" : "SOGPF ANZAC vs PAVN-ROK",
+			"replace" : {},
+			"name" : "co10_Escape_SOGPF_ANZAC_vs_PAVN_and_ROK"
+		},
+		{
+			"island" : "Porto",
+			"sqm": "Porto",
+			"mod" : "SOGPF ANZAC vs PAVN-ROK",
+			"replace" : {},
+			"name" : "co10_Escape_SOGPF_ANZAC_vs_PAVN_and_ROK"
+		},
+		{
+			"island" : "Prei Khmaoch Luong Legacy",
+			"sqm": "prei_khmaoch_luong",
+			"mod" : "SOGPF ANZAC vs PAVN-ROK",
+			"replace" : {},
+			"name" : "co10_Escape_SOGPF_ANZAC_vs_PAVN_and_ROK"
+		},
+		{
+			"island" : "Prei Khmaoch Luong RHS",
+			"sqm": "rhspkl",
+			"mod" : "SOGPF ANZAC vs PAVN-ROK",
+			"replace" : {},
+			"name" : "co10_Escape_SOGPF_ANZAC_vs_PAVN_and_ROK"
+		},
+		{
+			"island" : "Tembelan",
+			"sqm": "Tembelan",
+			"mod" : "SOGPF ANZAC vs PAVN-ROK",
+			"replace" : {},
+			"name" : "co10_Escape_SOGPF_ANZAC_vs_PAVN_and_ROK"
+		},
+		{
+			"island" : "Cam Lao Nam",
+			"sqm": "Cam_Lao_Nam",
+			"mod" : "SOGPF ANZAC vs PAVN-ARVN",
+			"replace" : {},
+			"name" : "co10_Escape_SOGPF_ANZAC_vs_PAVN_and_ARVN"
+		},
+		{
+			"island" : "Khe Sanh",
+			"sqm": "Khe_Sanh",
+			"mod" : "SOGPF ANZAC vs PAVN-ARVN",
+			"replace" : {},
+			"name" : "co10_Escape_SOGPF_ANZAC_vs_PAVN_and_ARVN"
+		},
+		{
+			"island" : "The Bra",
+			"sqm": "The_Bra",
+			"mod" : "SOGPF ANZAC vs PAVN-ARVN",
+			"replace" : {},
+			"name" : "co10_Escape_SOGPF_ANZAC_vs_PAVN_and_ARVN"
+		},
+		{
+			"island" : "Tanoa",
+			"sqm": "Tanoa",
+			"mod" : "SOGPF ANZAC vs PAVN-ARVN",
+			"replace" : {},
+			"name" : "co10_Escape_SOGPF_ANZAC_vs_PAVN_and_ARVN"
+		},
+		{
+			"island" : "Lingor",
+			"sqm": "Lingor3",
+			"mod" : "SOGPF ANZAC vs PAVN-ARVN",
+			"replace" : {},
+			"name" : "co10_Escape_SOGPF_ANZAC_vs_PAVN_and_ARVN"
+		},
+		{
+			"island" : "Porto",
+			"sqm": "Porto",
+			"mod" : "SOGPF ANZAC vs PAVN-ARVN",
+			"replace" : {},
+			"name" : "co10_Escape_SOGPF_ANZAC_vs_PAVN_and_ARVN"
+		},
+		{
+			"island" : "Prei Khmaoch Luong Legacy",
+			"sqm": "prei_khmaoch_luong",
+			"mod" : "SOGPF ANZAC vs PAVN-ARVN",
+			"replace" : {},
+			"name" : "co10_Escape_SOGPF_ANZAC_vs_PAVN_and_ARVN"
+		},
+		{
+			"island" : "Prei Khmaoch Luong RHS",
+			"sqm": "rhspkl",
+			"mod" : "SOGPF ANZAC vs PAVN-ARVN",
+			"replace" : {},
+			"name" : "co10_Escape_SOGPF_ANZAC_vs_PAVN_and_ARVN"
+		},
+		{
+			"island" : "Tembelan",
+			"sqm": "Tembelan",
+			"mod" : "SOGPF ANZAC vs PAVN-ARVN",
+			"replace" : {},
+			"name" : "co10_Escape_SOGPF_ANZAC_vs_PAVN_and_ARVN"
 		}
 	],
 	"Addons" : [
 		{
 			"name" : "SOG Prairie Fire",
-			"mods" : ["SOGPF MACV vs PAVN-VC","SOGPF PAVN vs MACV-ARVN"]
+			"mods" : ["SOGPF MACV vs PAVN-VC","SOGPF PAVN vs MACV-ARVN","SOGPF ANZAC vs PAVN-ROK","SOGPF PAVN vs ANZAC-ROK","SOGPF ANZAC vs PAVN-ARVN"]
 		}
 	]
 	
